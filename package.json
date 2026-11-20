@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "dotnet run --project backend/backend.csproj --launch-profile http"
+  },
+  "dependencies": {
+    "react-router": "^8.5.2"
+  }
+}
